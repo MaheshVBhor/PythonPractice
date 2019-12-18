@@ -1,11 +1,16 @@
-# PythonPractice
-Python Practice: Storing codes
+# My Repo for First Project at INSAID
 
-- Point 1
-- Point 2
+## Here is list of all projects
 
-___
+- [Finance](https://github.com/MaheshVBhor/PythonPractice/tree/master/finance-project "Finance")
+- Banking
+- Accounts
+- Energy
 
-```
-print('hello world')
-```
+| Finance  |[![Finance](https://raw.githubusercontent.com/MaheshVBhor/PythonPractice/master/images/5-0_finance_1366%5B1%5D.jpg "Finance")](https://raw.githubusercontent.com/MaheshVBhor/PythonPractice/master/images/5-0_finance_1366%5B1%5D.jpg "Finance")   |
+| :------------ | :------------ |
+|  [![Account](https://raw.githubusercontent.com/MaheshVBhor/PythonPractice/master/images/5-0_finance_1366%5B1%5D.jpg "Account")](https://raw.githubusercontent.com/MaheshVBhor/PythonPractice/master/images/5-0_finance_1366%5B1%5D.jpg "Account") | Accounts  |
+|   |   |
+|  Energy |[![Energy](https://raw.githubusercontent.com/MaheshVBhor/PythonPractice/master/images/5-0_finance_1366%5B1%5D.jpg "Energy")](https://raw.githubusercontent.com/MaheshVBhor/PythonPractice/master/images/5-0_finance_1366%5B1%5D.jpg "Energy")   |
+
+
