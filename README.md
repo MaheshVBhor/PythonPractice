@@ -14,3 +14,7 @@
 |  Energy |[![Energy](https://raw.githubusercontent.com/MaheshVBhor/PythonPractice/master/images/5-0_finance_1366%5B1%5D.jpg "Energy")](https://raw.githubusercontent.com/MaheshVBhor/PythonPractice/master/images/5-0_finance_1366%5B1%5D.jpg "Energy")   |
 
 
+```python
+for i in range(0,100,3):
+	print('hello')
+Print('done')
