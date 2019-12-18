@@ -17,4 +17,4 @@
 ```python
 for i in range(0,100,3):
 	print('hello')
-Print('done')
+print('done')
